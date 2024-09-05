@@ -13,6 +13,7 @@ We've put together this guide to assist the next groups of interns, from applyin
 - Applying
   - Requirements
 - Interview prep
+  - Behavioural
   - Software Engineer (SWE)
   - Technical Program Manager (TPM)
  
@@ -29,7 +30,7 @@ Applications are done on the Microsoft Careers page. Internship roles typically 
 - After applying, you can expect to hear back around 2 weeks, although it can take up to a month for some.
 - If you are selected, you will be invited to interview.
   - Interviews are split into multiple rounds with different persons on the same day. Number of rounds may differ by role.
-  - Everyone does a behavioural round. For SWE, expect 1 or more technical rounds. You may or may not be asked to code, they care more about your though process.
+  - Everyone does atleast one behavioural round. For SWE, expect 1 or more technical rounds (however there has been an instance of an SWE intern having no technical interview). You may or may not be asked to code, they care more about your though process.
   - Everything on your resume is fair game for questioning. Know your resume.
 
 ## Obtaining a Visa
@@ -45,3 +46,11 @@ Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United Sta
 | University Transcript |
 |---|
 | Obtain from your university. Ensure a GPA of 2.7 or higher. Unofficial transcripts may be used |
+
+## Interview Prep
+### Behavioural Interview
+This round of interview is the perfect chance to connect with the interviewers. 
+- Although it may be cliche, the STAR (Situation, Task, Action, Result) method of responding to questions will allow you to clearly articulate your answers in an order that will not confuse the asker.
+- Ensure you are aware of Microsoft Corporate Values: Accountability, Respect and Intgerity. In your responses, try to ilustrate how you embody these characteristics
+- A common quality that Microsoft tries to push is the idea of having a "growth mindset." This is defined as an applicant being very curious and willing to learn new things and accept corrections.
+- When asked about an experience or skill on your resume, while talking about the technical skills are expected. ensure to state the challenges you had there, how you overcame them, and how you will use your growth mindset to employ your  newfound knowledge in your next workplace or life, as a whole.
