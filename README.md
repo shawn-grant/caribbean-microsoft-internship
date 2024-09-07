@@ -50,7 +50,7 @@ Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United Sta
 ## Interview Prep
 ### Behavioural Interview
 This round of interview is the perfect chance to connect with the interviewers. 
-- Although it may be cliche, the STAR (Situation, Task, Action, Result) method of responding to questions will allow you to clearly articulate your answers in an order that will not confuse the asker.
-- Ensure you are aware of Microsoft Corporate Values: Accountability, Respect and Intgerity. In your responses, try to ilustrate how you embody these characteristics
+- Although it may be cliche, the [STAR (Situation, Task, Action, Result) method](https://www.themuse.com/advice/star-interview-method) of responding to questions will allow you to clearly articulate your answers in an order that will not confuse the asker.
+- Ensure you are aware of [Microsoft Corporate Values](https://www.microsoft.com/en-us/about/corporate-values): Accountability, Respect and Intgerity. In your responses, try to ilustrate how you embody these characteristics
 - A common quality that Microsoft tries to push is the idea of having a "growth mindset." This is defined as an applicant being very curious and willing to learn new things and accept corrections.
 - When asked about an experience or skill on your resume, while talking about the technical skills are expected. ensure to state the challenges you had there, how you overcame them, and how you will use your growth mindset to employ your  newfound knowledge in your next workplace or life, as a whole.
