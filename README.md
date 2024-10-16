@@ -107,6 +107,9 @@ Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United Sta
 **How do I improve my chances of getting an interview?**
 > HAVE A GOOD RESUME!! Ensure that your resume is up-to-date and is [ATS friendly](https://create.microsoft.com/en-us/templates/ats-resumes). Avoid images, and overly decorative graphics. Maximize your use of space to include important info.
 
+**Can interns get full-time return offers?**
+> Absolutely! While it is not guaranteed, interns entering their final year of school may be extended a full-time return offer. Interns who have more time remaining in school may also be offered an internship return offer for the next summer. Return offers are based on your internship performance and business need *(Is there space for you? Is there enough budget for you? etc.)*.
+
 **Can I apply to the FTE (full time employee) role even though I graduated [number] years ago?**
 > FTE roles are open to all graduates, however the current role open to the Caribbean is more targeted at recent graduates.
 
