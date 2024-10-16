@@ -102,7 +102,7 @@ Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United Sta
 > Yes. While it is recommended to have a previous internship under your belt, you can still get an offer if you can demonstrate you have equivalent experience via projects and other non-employment activities.
 
 **Is there a minimum GPA to get the internship?**
-> While Microsoft does not explicit state a minimum GPA to get an internship offer, it is a requirement to have a GPA of 2.7 or higher to be eligible for a J-1 (intern) visa.
+> While Microsoft does not explicitly state a minimum GPA to get an internship offer, it is a requirement to have a GPA of 2.7 or higher to be eligible for a J-1 (intern) visa.
 
 **How do I improve my chances of getting an interview?**
 > HAVE A GOOD RESUME!! Ensure that your resume is up-to-date and is [ATS friendly](https://create.microsoft.com/en-us/templates/ats-resumes). Avoid images, and overly decorative graphics. Maximize your use of space to include important info.
