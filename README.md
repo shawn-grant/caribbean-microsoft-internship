@@ -37,7 +37,9 @@ Applications are done on the Microsoft Careers page. Internship roles typically 
 - After applying, you can expect to hear back around 2 weeks, although it can take up to a month for some.
 - If you are selected, you will be invited to interview.
   - Interviews are split into multiple rounds with different persons on the same day. Number of rounds may differ by role.
-  - Everyone does atleast one behavioural round. For SWE, expect 1 or more technical rounds (however there has been an instance of a SWE intern having no technical interview). You may or may not be asked to code, they care more about your though process.
+  - Everyone does atleast one behavioural round.
+    - For SWE, expect 1 or more technical rounds. You may or may not be asked to write code, however, what is important is explaining your thought process.
+    - For TPM, you can expect 3 interview rounds.
   - Everything on your resume is fair game for questioning. Know your resume.
  
 ### Before You Apply
