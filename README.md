@@ -28,6 +28,7 @@ We've put together this guide to assist the next groups of interns, from applyin
 - [Software Engineer (Full-time)](https://jobs.careers.microsoft.com/global/en/job/1747253)
 
 Applications are done on the Microsoft Careers page. Internship roles typically open around October to March each year. As of writing, not all roles are officially open to the Caribbean, only the ones above.
+> NB: There are hundreds of available spots for each role.
 
 ### Requirements
 - Be in university, pursuing a bachelors or masters
@@ -51,12 +52,29 @@ Applications are done on the Microsoft Careers page. Internship roles typically 
 
 ## Interview Prep
 ### Behavioural Interview
-This round of interview is the perfect chance to connect with the interviewers. 
+This round of interview(s) is the perfect chance to connect with the interviewers. 
 - Although it may be cliche, the [STAR (Situation, Task, Action, Result) method](https://www.themuse.com/advice/star-interview-method) of responding to questions will allow you to clearly articulate your answers in an order that will not confuse the asker.
 - Ensure you are aware of [Microsoft Corporate Values](https://www.microsoft.com/en-us/about/corporate-values): Accountability, Respect and Intgerity. In your responses, try to ilustrate how you embody these characteristics
 - A common quality that Microsoft tries to push is the idea of having a "growth mindset." This is defined as an applicant being very curious and willing to learn new things and accept corrections.
 - When asked about an experience or skill on your resume, while talking about the technical skills are expected. ensure to state the challenges you had there, how you overcame them, and how you will use your growth mindset to employ your  newfound knowledge in your next workplace or life, as a whole.
+- Check out [behavioral_questions.pdf](behavioral_questions.pdf) for examples of questions you may be asked during this round.
 
+### Technical (coding) Interview
+This round is designed to assess your abilities as a software engineer
+- You may be given a [Leetcode](https://leetcode.com/problemset/) style question and about 30 mins to formulate a solution
+  - Practice your data structures and algorithmns (DSA)!
+- Communicate with the interviewer! Don't just start coding.
+  - Ask clarifying questions. Ensure you fully understand the problem before you write code.
+  - Ask for examples of inputs and expected outputs
+  - Come up with and run through test cases
+  - Identify edge cases and plan for them
+- During this round it is extremely important to articulate your thought process as you write your solution
+- Check out [interview_patterns.py](interview_patterns.py) for common algorithms you should know for your interview.
+- Lastly, be honest! Interviewers can often tell if you've seen a question before by how you answer. It's ok to say that youve seen something similar.
+
+> It is important to note that every round is a behavioural round. Always present yourself as someone people would want to work with.
+
+---
 <!-- ## Obtaining a Visa
 Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United States. Microsoft uses a third-party (currently Cultural Vistas) to handle this for new hires. 
 ### Documents you'll need in advance
