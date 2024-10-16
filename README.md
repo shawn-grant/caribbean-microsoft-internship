@@ -30,9 +30,10 @@ We've put together this guide to assist the next groups of interns, from applyin
 Applications are done on the Microsoft Careers page. Internship roles typically open around October to March each year. As of writing, not all roles are officially open to the Caribbean, only the ones above.
 > NB: There are hundreds of available spots for each role.
 
-### Requirements
-- Be in university, pursuing a bachelors or masters
-- Have atleast 1 semester remaining after the summer (Drop or add courses to qualify if its your last year)
+### Internship Requirements
+- Be in university, pursuing a bachelors or masters in Computer Science, IT or related field.
+- Have atleast 1 semester remaining after the summer.
+- Click each role above for more specific requirements.
 
 ### Timeline
 - After applying, you can expect to hear back around 2 weeks, although it can take up to a month for some.
@@ -91,11 +92,17 @@ Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United Sta
 -->
 
 # Frequently Asked Questions
+**Are the roles available remotely?**
+> No, all the available roles mentioned above are for on-site employment in Redmond, Washington, USA.
+
 **Does Microsoft sponsor visas for Caribbean students?**
-> Yes! if you are given an offer, a Microsoft visa sponsor will reach out to you
+> Yes! if you are given an offer, a Microsoft visa sponsor will reach out to you.
 
 **Can I get in with no previous internships?**
 > Yes. While it is recommended to have a previous internship under your belt, you can still get an offer if you can demonstrate you have equivalent experience via projects and other non-employment activities.
+
+**Is there a minimum GPA to get the internship?**
+> While Microsoft does not explicit state a minimum GPA to get an internship offer, it is a requirement to have a GPA of 2.7 or higher to be eligible for a J-1 (intern) visa.
 
 **How do I improve my chances of getting an interview?**
 > HAVE A GOOD RESUME!! Ensure that your resume is up-to-date and is [ATS friendly](https://create.microsoft.com/en-us/templates/ats-resumes). Avoid images, and overly decorative graphics. Maximize your use of space to include important info.
@@ -109,6 +116,9 @@ Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United Sta
     - For FTE: Atleast 1 technical assessment prior to the interview. Then 2 or more rounds of behavioral and technical interviews.
 
 **Can I apply to other roles on the Microsoft Careers website?**
+> Currently, ONLY the roles stated above have been approved for applicants from the Caribbean.
+
+**Can I apply to roles in other locations, other than Redmond?**
 > Currently, ONLY the roles stated above have been approved for applicants from the Caribbean.
 
 **Am I guaranteed to get an offer if I apply?**
