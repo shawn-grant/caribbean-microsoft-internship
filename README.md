@@ -5,7 +5,7 @@
 As of 2024, Microsoft now recruits interns from the Caribbean, as a result of the efforts by the [Project Blue Mountain](https://www.linkedin.com/pulse/microsoft-day-university-technology-jamaica-thomas-mba-hrm-volie/) team.
 The [first cohort](https://www.linkedin.com/posts/shoniquethomas_microsoftinterns-microsoftlife-activity-7203425109003403264-laSU?utm_source=share&utm_medium=member_desktop) of Microsoft interns studying in the Caribbean were from Jamaica (University of Technology & University of The West Indies Mona) and Barbados (University of The West Indies Cave Hill). 17 students in total.
 
-We've put together this guide to assist the next groups of interns, from applying and interviewing, to visa concerns.
+We've put together this guide to assist the next groups of interns in landing an internship at Microsoft. These are our own reflections based on personal experience.
 
 ---
 
@@ -19,7 +19,7 @@ We've put together this guide to assist the next groups of interns, from applyin
 ---
 -->
 
-## Applying for the job
+## Application Process
 ### Open Positions
 - [Software Engineer Intern](https://jobs.careers.microsoft.com/global/en/share/1751922)
 - [Technical Program Manager Intern](https://jobs.careers.microsoft.com/global/en/job/1748094)
@@ -51,7 +51,7 @@ Applications are done on the Microsoft Careers page. Internship roles typically 
 - Prepare for interviews.
 - Stay authentic!
 
-## Interview Prep
+## Interview Preparation
 ### Behavioural Interview
 This round of interview(s) is the perfect chance to connect with the interviewers. 
 - Although it may be cliche, the [STAR (Situation, Task, Action, Result) method](https://www.themuse.com/advice/star-interview-method) of responding to questions will allow you to clearly articulate your answers in an order that will not confuse the asker.
@@ -75,21 +75,9 @@ This round is designed to assess your abilities as a software engineer
 
 > It is important to note that every round is a behavioural round. Always present yourself as someone people would want to work with.
 
----
-<!-- ## Obtaining a Visa
-Yes, Microsoft will assist you in obtaining a J-1 visa to work in the United States. Microsoft uses a third-party (currently Cultural Vistas) to handle this for new hires. 
-### Documents you'll need in advance
-
-| Police Record | |
-|---|---|
-| Jamaica | https://jcf.gov.jm/police-certificate/ |
-| Barbados| |
-| (add more) | |
-
-| University Transcript |
-|---|
-| Obtain from your university. Ensure a GPA of 2.7 or higher. Unofficial transcripts may be used |
--->
+## Team Placement
+Specific team placement happens closer to your start date, however, from our experience it is most likely that you will be placed in the same team or business group as your interviewers. You do not get to pick which team you work with. You may state your preference for a team or product you'd like to work on, but keep in mind your placement is entirely up to your interviewers and hiring manager.
+> Note that Linkedin and GitHub, while owned by Microsoft, operate as separate companies. Don't expect to be placed on any team within those companies.
 
 # Frequently Asked Questions
 **Are the roles available remotely?**
