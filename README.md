@@ -35,21 +35,27 @@ Applications are done on the Microsoft Careers page. Internship roles typically 
 - Have atleast 1 semester remaining after the summer.
 - Click each role above for more specific requirements.
 
-### Timeline
-- After applying, you can expect to hear back around 2 weeks, although it can take up to a month for some.
-- If you are selected, you will be invited to interview.
-  - Interviews are split into multiple rounds with different persons on the same day. Number of rounds may differ by role.
-  - Everyone does atleast one behavioural round.
-    - For SWE, expect 1 or more technical rounds. You may or may not be asked to write code, however, what is important is explaining your thought process.
-    - For TPM, you can expect 3 interview rounds.
-  - Everything on your resume is fair game for questioning. Know your resume.
- 
 ### Before You Apply
 - Update your resume, LinkedIn and GitHub (if applying for SWE).
 - Research the role and the company.
 - Leverage your network.
 - Prepare for interviews.
 - Stay authentic!
+
+### Timeline
+- After applying, you can expect to hear back around 2 weeks, although it can take up to a month for some.
+-  If you are selected, you will be invited to interview.
+  - Interviews are split into multiple rounds with different persons on the same day. Number of rounds may differ by role.
+  - Everyone does atleast one behavioural round.
+    - For SWE, expect 1 or more technical rounds. You may or may not be asked to write code, however, what is important is explaining your thought process.
+    - For TPM, you can expect 3 interview rounds.
+- Roughly 1 to 2 weeks after interviewing, you will recieve a decision via email
+- If you are given an offer:
+  - Review and sign offer letter and other documents in Action Center
+  - Pick your intended start date. Allow yourself atleast 2 months of time to gather documents and obtain a visa.
+  - Immigration team will reach out to begin the j-1 visa process.
+  - If you have not yet obtained a visa by your selected start date, your start date will be pushed back.
+  - If you are unsuccessful in obtaining a visa, your internship may be changed to be done remotely.
 
 ## Interview Preparation
 ### Behavioural Interview
@@ -71,6 +77,7 @@ This round is designed to assess your abilities as a software engineer
   - Identify edge cases and plan for them
 - During this round it is extremely important to articulate your thought process as you write your solution
 - Check out [interview_patterns.py](interview_patterns.py) for common algorithms you should know for your interview.
+- Everything on your resume is fair game for questioning. Know your resume well.
 - Lastly, be honest! Interviewers can often tell if you've seen a question before by how you answer. It's ok to say that youve seen something similar.
 
 > It is important to note that every round is a behavioural round. Always present yourself as someone people would want to work with.
