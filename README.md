@@ -70,6 +70,7 @@ This round of interview(s) is the perfect chance to connect with the interviewer
 This round is designed to assess your abilities as a software engineer
 - You may be given a [Leetcode](https://leetcode.com/problemset/) style question and about 30 mins to formulate a solution
   - Practice your data structures and algorithmns (DSA)!
+  - Interns are typically given leetcode easy to medium, while FTEs may be given a leetcode medium or hard question
 - Communicate with the interviewer! Don't just start coding.
   - Ask clarifying questions. Ensure you fully understand the problem before you write code.
   - Ask for examples of inputs and expected outputs
@@ -98,6 +99,9 @@ Specific team placement happens closer to your start date, however, from our exp
 
 **Is there a minimum GPA to get the internship?**
 > While Microsoft does not explicitly state a minimum GPA to get an internship offer, it is a requirement to have a GPA of 2.7 or higher to be eligible for a J-1 (intern) visa.
+
+**How long are internships?**
+> Internships are typically 12 weeks (3 months) long, during the summer.
 
 **How do I improve my chances of getting an interview?**
 > HAVE A GOOD RESUME!! Ensure that your resume is up-to-date and is [ATS friendly](https://create.microsoft.com/en-us/templates/ats-resumes). Avoid images, and overly decorative graphics. Maximize your use of space to include important info.
